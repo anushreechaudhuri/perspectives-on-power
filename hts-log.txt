@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Fri, 23 Aug 2024 16:45:25 at https://powerperspectives.org/
+(winhttrack https://powerperspectives.org/ -W -O "/Users/anushreechaudhuri/pCloud Drive/MIT/MIT Work/Fieldwork/PerspectivesonPower_WebsiteClone_Aug232024/perspectives on power" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:47:15	Warning: 	Permanent Redirect for https://powerperspectives.org/s.brightspotcdn.com/dims4/default/935d094/2147483647/strip/false/crop/5088x2862+0+222/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F2b%2F245581034687a3251df8c348378e%2Fsd-photos-1staff-799611-sd-fi-jacumba-solar-ec-010.jpg
+16:47:15	Warning: 	File has moved from https://powerperspectives.org/s.brightspotcdn.com/dims4/default/935d094/2147483647/strip/false/crop/5088x2862+0+222/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F2b%2F245581034687a3251df8c348378e%2Fsd-photos-1staff-799611-sd-fi-jacumba-solar-ec-010.jpg to /s.brightspotcdn.com/dims4/default/935d094/2147483647/strip/false/crop/5088x2862+0+222/resize/1200x675!/quality/80?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F2b%2F245581034687a3251df8c348378e%2Fsd-photos-1staff-799611-sd-fi-jacumba-solar-ec-010.jpg
+16:47:20	Error: 	"Bad Request" (400) at link https://powerperspectives.org/s.brightspotcdn.com/dims4/default/935d094/2147483647/strip/false/crop/5088x2862+0+222/resize/1200x675%21/quality/80?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F2b%2F245581034687a3251df8c348378e%2Fsd-photos-1staff-799611-sd-fi-jacumba-solar-ec-010.jpg (from https://powerperspectives.org/s.brightspotcdn.com/dims4/default/935d094/2147483647/strip/false/crop/5088x2862+0+222/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F2b%2F245581034687a3251df8c348378e%2Fsd-photos-1staff-799611-sd-fi-jacumba-solar-ec-010.jpg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 56 seconds : 122 links scanned, 119 files written (12045818 bytes overall) [8893147 bytes received at 76665 bytes/sec], 4398776 bytes transferred using HTTP compression in 61 files, ratio 25%
+(1 errors, 2 warnings, 0 messages)
